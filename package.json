@@ -11,7 +11,7 @@
     "license": "MIT",
     "repository": {
 	"type": "git",
-	"url": ""
+	"url": "git@github.com:tetheredge/angular2-skeleton.git"
     },
     "dependencies": {
 	"@angular/common": "2.1.2",
